@@ -37,16 +37,25 @@
 		padding-top:20px; 
 	}
 
-	#books-image h3 {
+	#books-index {
 		text-align:center;
 
 	}
 
 	#books-index img {
 		width:100%;
-		max-height:185px; 
+		max-height: 180px;
+		padding: 3px;
+		border: 1px #ccc solid;	
 	}
 
 	#books-index h3{
 		height:50px;
 	}
+
+	#books-index .btn{
+		display: block;
+		margin-top: 20px;
+	}
+
+
